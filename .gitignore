@@ -1,0 +1,7 @@
+!.gitkeep
+/.idea/
+/app/node_modules/
+/.idea/jsLibraryMappings.xml
+/docker/database/dbdata/
+/.env
+/app/certs/
