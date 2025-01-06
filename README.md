@@ -4,6 +4,7 @@
 1. `cp dev/example.env .env`
 2. Put correct Telegram token string to the .env file and db password
 3. `sudo docker-compose up -d`
+4. `go run main.go`
 
 ### Setup Telegram dev environment:
 1. You need iPhone or Android Telegram Beta for [this](https://github.com/telegramdesktop/tdesktop/issues/26361)
